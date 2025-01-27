@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  -webkit-font-smoothing: auto;
+  -moz-font-smoothing: auto;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: auto;
+  text-rendering: optimizeLegibility;
+  font-smooth: always;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+button{
+    background-color: red;
+    color: white;
+    font-weight: 900;
+}
+
+input{
+    padding: 5px;
+    font-size: 20px;
+}
+
+#msg{
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-color: orange;
+}
